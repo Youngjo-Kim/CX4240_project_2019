@@ -21,7 +21,7 @@ We hope to build a classifier that can accurately find the origin of the recipe.
 ### Discussion
 We believe this is a project that can benefit people who love food and are willing to learn about the culture behind different recipes.
 
-#### Reference
+### Reference
 1. Kotsiantis SB. Supervised Machine Learning: A Review of Classification Techniques. Proceedings of the 2007 conference on Emerging Artificial Intelligence Applications in Computer Engineering: Real Word AI Systems with Applications in eHealth, HCI, Information Retrieval and Pervasive Technologies; 2007.
 2.	Vapnik V, Kotz S. Estimation of Dependences Based on Empirical Data. Springer; 2006.
 3.	Vapnik V. The Nature of Statistical Learning Theory. Springer New York; 1999.
