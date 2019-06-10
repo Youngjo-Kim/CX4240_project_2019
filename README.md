@@ -12,6 +12,7 @@ As a part of cultural globalization, we are exposed to various types of cuisines
 The project will consist of two parts: 
 1. Data acquisition and preprocessing and
 2. modeling
+
 In the first part, we will need collect a large amount of recipes from recipe websites, such as [allrecipes.com](https://www.allrecipes.com/) and [chowhound.com](https://www.chowhound.com/), and preprocess these recipes into a concise data set. These recipe data will be labeled by their origins. We propose to use supervised learning methods1, such as Support Vector Machine2, Logistic Regression and Artificial Neural Networks3, to build the recipe classifier. We will use a k-fold cross-validation process to find the best parameters of these model. All different types of classifiers will be tested on the same validating set. 
 
 ### Expected results
