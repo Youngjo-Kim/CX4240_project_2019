@@ -26,4 +26,4 @@ We believe this is a project that can benefit people who love food and are willi
 2.	Vapnik V, Kotz S. Estimation of Dependences Based on Empirical Data. Springer; 2006.
 3.	Vapnik V. The Nature of Statistical Learning Theory. Springer New York; 1999.
 
-
+![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)
