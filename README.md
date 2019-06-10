@@ -1,3 +1,5 @@
+# Geographic Classification of Cuisine Recipes
+
 <img src = "CuisineFromAroundTheWorld.png">
 
 ## Project proposal
