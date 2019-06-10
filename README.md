@@ -5,6 +5,8 @@
 ## Project proposal
 ### Group members: Jinhyeun Kim, Youngjo Kim, and Jianyuan Zhai
 
+<hr>
+
 ### Introduction
 As a part of cultural globalization, we are exposed to various types of cuisines every day. Cuisines are different across different countries, and are primarily affected by the geographic conditions, such as local climate, religion and trade. We may know from past experience that ingredients and food preparation methods are the key factors distinguishes one cuisine from others. However, learning thousands recipes around the world could be a very hard task for human brain. In this project, we want to build a machine learning classifier that reads a recipe and classifies the origin of the recipe.
 
