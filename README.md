@@ -1,5 +1,7 @@
 <img src = "CuisineFromAroundTheWorld.png">
-## Welcome to GitHub Pages
+
+## Project proposal
+### Group members: Jinhyeun Kim, Jianyuan Zhai, and Youngjo Kim*
 
 You can use the [editor on GitHub](https://github.com/Youngjo-Kim/CX4240_project_2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
