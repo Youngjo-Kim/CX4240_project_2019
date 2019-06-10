@@ -1,6 +1,7 @@
 # Geographic Classification of Cuisine Recipes
 
 <img src = "CuisineFromAroundTheWorld.png">
+![image](CuisineFromAroundTheWorld.png)
 
 ## Project proposal
 ### Group members: Jinhyeun Kim, Jianyuan Zhai, and Youngjo Kim*
@@ -27,11 +28,6 @@ We believe this is a project that can benefit people who love food and are willi
 3.	Vapnik V. The Nature of Statistical Learning Theory. Springer New York; 1999.
 
 
-
-
-You can use the [editor on GitHub](https://github.com/Youngjo-Kim/CX4240_project_2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
