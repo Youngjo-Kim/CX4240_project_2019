@@ -1,4 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # Geographic Classification of Cuisine Recipes
 
 <img src = "CuisineFromAroundTheWorld.png">
@@ -14,7 +13,7 @@ The project will consist of two parts:
 1. Data acquisition and preprocessing and
 2. modeling
 
-In the first part, we will need collect a large amount of recipes from recipe websites, such as <a href="https://www.allrecipes.com/" target="_blank">allrecipes.com</a> and <a href="https://www.allrecipes.com/" target="_blank">chowhound.com</a>, and preprocess these recipes into a concise data set. These recipe data will be labeled by their origins. We propose to use supervised learning methods$^1$, such as Support Vector Machine2, Logistic Regression and Artificial Neural Networks3, to build the recipe classifier. We will use a k-fold cross-validation process to find the best parameters of these model. All different types of classifiers will be tested on the same validating set. 
+In the first part, we will need collect a large amount of recipes from recipe websites, such as <a href="https://www.allrecipes.com/" target="_blank">allrecipes.com</a> and <a href="https://www.allrecipes.com/" target="_blank">chowhound.com</a>, and preprocess these recipes into a concise data set. These recipe data will be labeled by their origins. We propose to use supervised learning methods[1], such as Support Vector Machine[2], Logistic Regression and Artificial Neural Networks[3], to build the recipe classifier. We will use a k-fold cross-validation process to find the best parameters of these model. All different types of classifiers will be tested on the same validating set. 
 
 ### Expected results
 We hope to build a classifier that can accurately find the origin of the recipe. We will compare different supervised learning methods on the precision and accuracy of the classification. We will also identify the most common ingredients and preparation methods shared among the recipes from the same region. 
@@ -22,6 +21,10 @@ We hope to build a classifier that can accurately find the origin of the recipe.
 ### Discussion
 We believe this is a project that can benefit people who love food and are willing to learn about the culture behind different recipes.
 
+#### Reference
+1. Kotsiantis SB. Supervised Machine Learning: A Review of Classification Techniques. Proceedings of the 2007 conference on Emerging Artificial Intelligence Applications in Computer Engineering: Real Word AI Systems with Applications in eHealth, HCI, Information Retrieval and Pervasive Technologies; 2007.
+2.	Vapnik V, Kotz S. Estimation of Dependences Based on Empirical Data. Springer; 2006.
+3.	Vapnik V. The Nature of Statistical Learning Theory. Springer New York; 1999.
 
 
 
