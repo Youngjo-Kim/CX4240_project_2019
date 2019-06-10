@@ -1,7 +1,6 @@
 # Geographic Classification of Cuisine Recipes
 
 <img src = "CuisineFromAroundTheWorld.png">
-![Image](CuisineFromAroundTheWorld.png)
 
 ## Project proposal
 ### Group members: Jinhyeun Kim, Jianyuan Zhai, and Youngjo Kim*
