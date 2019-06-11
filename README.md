@@ -1,8 +1,8 @@
 <img src = "CuisineFromAroundTheWorld.png">
 
 ## Project proposal
-### Group members: 
-Jinhyeun Kim, **Youngjo Kim**, and Jianyuan Zhai (**Bold name**: Team leader)
+### Group members: Jinhyeun Kim, **Youngjo Kim**, and Jianyuan Zhai 
+(**Bold name**: Team leader)
 
 <hr>
 
