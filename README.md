@@ -2,7 +2,7 @@
 
 ## Project proposal
 ### Group members: 
-Jinhyeun Kim, Youngjo Kim*, and Jianyuan Zhai (* Team leader)
+Jinhyeun Kim, *Youngjo Kim*, and Jianyuan Zhai (Italic name: Team leader)
 
 <hr>
 
