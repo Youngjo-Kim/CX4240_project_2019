@@ -10,7 +10,7 @@
 <hr>
 
 ### Introduction
-As a part of cultural globalization, we are exposed to various types of cuisines every day. Cuisines are different across different countries and are primarily affected by geographic conditions, such as local climate, religion, and trade. Therefore, classifying the cuisines can be used to improve our understanding of each culture and lifestyle. Ingredients and food preparation methods are the key factors distinguishes one cuisine from others, however, learning thousands of recipes around the world could be an arduous task for the human brain and is superficially understood unless systematic framework exists. At the same time, we noticed that there is already a rich source of food data we can get. Therefore, in this project, we want to build a machine learning classifier that reads a recipe and classifies the origin of the recipe.
+As a part of cultural globalization, we are exposed to various types of cuisines every day. Cuisines are different across different countries and are primarily affected by geographic conditions, such as local climate, religion, and trade. Therefore, classifying the cuisines can be used to improve our understanding of each culture and lifestyle. Ingredients and food preparation methods are the key factors distinguishes one cuisine from others; however, learning thousands of recipes around the world could be an arduous task for the human brain and is superficially understood unless systematic framework exists. At the same time, we noticed that there is already a rich source of food data we can get. Therefore, in this project, we want to build a machine learning classifier that reads a recipe and classifies the origin of the recipe.
 
 ### Methods
 The project will consist of two parts: 
