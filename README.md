@@ -1,5 +1,4 @@
 ### Group members: Jinhyeun Kim, **Youngjo Kim**, and Jianyuan Zhai 
-(Last names in alphabetical sequence, **Bold name**: Team leader)
 
 <img src = "CuisineFromAroundTheWorld.png">
 
